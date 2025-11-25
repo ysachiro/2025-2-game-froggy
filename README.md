@@ -1,4 +1,4 @@
-# prática de css com flexbox froggy
+# prática de flexbox (css) com flexbox froggy
 
 1. https://flexboxfroggy.com/
 2. fork desse repositório
